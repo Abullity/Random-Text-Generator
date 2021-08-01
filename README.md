@@ -10,8 +10,11 @@ More specifically,  program generates bigrams or trigrams (default) using [nltk]
 ## Dependencies
 The module required for the program is nltk
 you could install it either by running:
+
 `pip install nltk`
+
 or
+
 `pip install -r requirements.txt`
 
 ## Running the program
