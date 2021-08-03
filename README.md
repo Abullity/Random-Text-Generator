@@ -22,6 +22,6 @@ or
 The program takes a text file path and number of wanted sentences as an input,
 so the proper usage is the following:
 
-`python TextGeneratorAI.py [text file] [n of sentences]
+`python TextGeneratorAI.py [text file] [n of sentences]`
 
 `corpus.txt` contains script from [Game Of Thrones](https://www.imdb.com/title/tt0944947/?ref_=ttfc_fc_tt) , so you could use that as a text file.
